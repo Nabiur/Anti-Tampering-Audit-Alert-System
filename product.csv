@@ -1,0 +1,101 @@
+ProductName,CategoryID,Price,StockQuantity
+Action Figure,1,868.49,72
+Air Freshener,1,994.44,35
+Baseball Bat,1,996.98,435
+Bed,1,952.98,3
+Blender,1,580.65,269
+Bluetooth Speaker,1,372.14,34
+Board Game,1,860.39,200
+Bookshelf,1,122.37,118
+Building Blocks,1,501.03,438
+Cabinet,1,305.2,252
+Canned Beans,1,790.27,160
+Cap,1,12.62,38
+Car Battery,1,307.48,206
+Car Charger,1,423.2,46
+Car Seat,1,450.68,102
+Cereal,1,349.02,453
+Chair,1,890.02,426
+Charger,1,775.86,49
+Chocolate,1,818.61,149
+Coffee Table,1,145.77,292
+Conditioner,1,336.67,277
+Cookbook,1,174.67,112
+Cookies,1,229.52,100
+Deodorant,1,445.99,473
+Dictionary,1,251.95,363
+Dishwasher,1,273.56,423
+Encyclopedia,1,520.5,55
+Energy Bar,1,737.22,220
+Engine Oil,1,486.15,131
+Face Cream,1,741.29,484
+Football,1,541.66,267
+Golf Club,1,921.27,471
+Guidebook,1,193.14,217
+Headphones,1,273.97,496
+Jacket,1,598.68,161
+Jeans,1,25.31,143
+Juice,1,188.76,276
+Keyboard,1,454.27,404
+Lego Set,1,224.48,321
+Lipstick,1,166.03,196
+Microwave,1,444.47,274
+Noodles,1,375.67,117
+Novel,1,920.13,478
+Oven,1,19.1,274
+Puzzle Game,1,923.65,227
+Scarf,1,929.93,4
+Shampoo,1,592.52,313
+Shoes,1,379.41,251
+Shower Gel,1,584.74,383
+Smartphone,1,814.07,198
+Smartwatch,1,656.89,55
+Soccer Ball,1,752.68,217
+Stuffed Animal,1,321.92,9
+Sweater,1,111.18,159
+Tablet,1,930.93,487
+Tennis Balls,1,233.98,162
+Tennis Racket,1,182.64,237
+Toaster,1,9.99,299
+Toothpaste,1,670.65,311
+Toy Car,1,469.22,149
+Toy Robot,1,810.17,224
+T-shirt,1,772.65,198
+Wardrobe,1,366.05,155
+Webcam,1,476.09,118
+Windshield Wiper,1,204.95,455
+Wireless Mouse,1,389.07,63
+Yoga Mat,1,544.54,88
+Air Conditioner,2,380.25,128
+Basketball,2,590.7,55
+Candy,2,808.71,46
+Chips,2,450.39,462
+Coffee Maker,2,539.09,263
+Comic Book,2,842.29,165
+Desk,2,100.96,30
+Doll,2,575.25,334
+Dumbbells,2,54.13,371
+Mascara,2,363.1,440
+Notebook,2,208.53,145
+Perfume,2,283.39,53
+Puzzle,2,871.05,483
+Seat Cover,2,416.9,143
+Skipping Rope,2,688.6,359
+Sneakers,2,719.92,87
+Socks,2,766.71,170
+Washing Machine,2,287.05,203
+Atlas,3,384.12,47
+Car Tires,3,901.1,54
+Car Toolkit,3,468.78,248
+Dining Table,3,65.7,194
+Hoodie,3,563.33,301
+Laptop,3,861.02,313
+Nail Polish,3,511.31,420
+Soda,3,891.46,113
+Textbook,3,552.39,332
+TV Stand,3,722.97,264
+Vacuum Cleaner,3,459.36,294
+Magazine,4,283.34,465
+Refrigerator,4,492.16,270
+Sofa,4,190.02,113
+GPS System,6,777.3,29
