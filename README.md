@@ -1,5 +1,7 @@
 # Anti-Tampering Audit Alert System
 
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![Focus](https://img.shields.io/badge/Focus-Audit%20Triggers-1F6FEB)
+
 ## Overview
 This project demonstrates a database-first monitoring workflow for product data integrity. It uses MySQL triggers to detect risky product changes (large price or stock jumps), stores audit history, and supports email-based alerting.
 
